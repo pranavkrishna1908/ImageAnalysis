@@ -3,7 +3,7 @@
 
 # In[6]:
 
-#eathgteg egewtg
+#eathgteg
 import tarfile
 import os
 
