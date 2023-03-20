@@ -6,6 +6,7 @@
 #eathgteg
 import tarfile
 import os
+import numpy as np
 
 data_base_path = os.path.join('data')
 print(data_base_path)
